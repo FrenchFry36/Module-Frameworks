@@ -44,7 +44,7 @@ Level 1 challenge screenshot example.
 
 ![Example Screenshot](./highscores.png)
 
-# Level 1 Challenge
+# Level 1 Challenge // +
 
 - Write a React app which displays high score tables for the given data.
 
@@ -71,7 +71,7 @@ Fork this repo and host it on Netlify. You will need to deploy only this directo
 
 Name your netlify site `cyf-YOURGITHUBUSERNAME-scores`
 
-# Level 2
+# Level 2 // +
 
 - Present the High Score Tables sorted alphabetically by country name
 
